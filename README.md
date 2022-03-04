@@ -7,6 +7,9 @@ JAVA
 ## Test Runner
 TestNG
 
+## Report
+Extent Report
+
 ## Supports
 Appium Integration
 RestAssured
